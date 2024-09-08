@@ -1,0 +1,17 @@
+certifi
+charset-normalizer
+click
+docx==0.2.4
+Flask
+idna
+itsdangerous
+Jinja2
+lxml==5.2.1
+MarkupSafe
+pillow
+python-docx==0.8.11
+requests
+setuptools==68.2.2
+urllib3
+Werkzeug
+wheel==0.41.2
