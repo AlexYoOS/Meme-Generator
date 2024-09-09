@@ -3,7 +3,7 @@
 This project is a Meme Generator—a multimedia application that dynamically generates memes by overlaying quotes on images. The application can load quotes from various file types and manipulate and save images. It also accepts user input through a command line tool and a web service.
 
 
-<div style="text-align: right;">
+<div style="text-align: center;">
     <img src="Goggins_quote.jpg" alt="Goggins Quote">
 </div>
 
