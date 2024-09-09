@@ -2,6 +2,18 @@
 
 This project is a Meme Generator—a multimedia application that dynamically generates memes by overlaying quotes on images. The application can load quotes from various file types and manipulate and save images. It also accepts user input through a command line tool and a web service.
 
+
+<div style="text-align: center;">
+    <img src="Goggins_quote.jpg" alt="Goggins Quote">
+</div>
+
+## Intent
+The next level of advanced programming skills requires to **modularize** code and reuse these modules in **larger codebases**.
+
+Therefore the learning equity of this application is the **Quote Engine**, that is an implemented **Complex Strategy**. This Engine is an Object that collects the same/similiar information from different filetypes and generates _quote objects_ that are collected and can be used for **random meme generations**. 
+
+Those, as well as a created meme with chosen image and quote (as the title image of this Readme) can be created via script of **Flask application**
+
 ## Project Setup and Usage
 
 ### Flask App
@@ -39,4 +51,4 @@ For more details on the project structure and how the different modules interact
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more 
